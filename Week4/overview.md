@@ -11,9 +11,9 @@ BREAK 20221130200344
 * Change the permissions on a file (20221130201403)
 * Danges of `setuid`? (20221130211411)
 
-BREAK 20221130211411
+BREAK (20221130211411)
 
-* How do i change user or group of file or directory? 20221130211617
+* How do i change user or group of file or directory? (20221130211617)
 
 
 ## Commands
@@ -21,7 +21,7 @@ BREAK 20221130211411
 * apt lst --upgradable
 * `mv foo other` = change file/directory foo name to other (or move)
 * `cp foo other` = copy file/directory foo to other
-* ls - List the file in the current directory
+* `ls` - List the file in the current directory
 * `stat foo` - see all the file details about the foo  inode
 * `stat -c '%a'` - to see octal persmissions 
 * `chown rando foo` - change ownership of foo to rando
@@ -41,14 +41,16 @@ BREAK 20221130211411
 
 
 
-# Quick notes
+### Quick notes
 
 * host/client name = name of the server you are on
 
-## Related 
+### Related 
 
 * Read about Unix Timeshare
 * Watch Triumph of the nerds
 * picoCTF
 
+#### Homework 
+* Play around with creating users, adding files, changing permissions and ownership of files. 
 
