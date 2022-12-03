@@ -1,10 +1,13 @@
 # Week 2 Beginner Boost
 
 * What is a shell and why do I care? 
+   * *the shell is the program that interacts with the kernal or operating system. The shell takes the commands given through the command line interface and relays these to the machine (original review answer given (20221203143432))*
 * What is the difference between "terminal", "CLI", and "Shell"?
+   * *The Terminal is the piece of hardware that one interacts with to access the command line interface*
+
 * What is a REPL?
 * What is Unix and Linux? 
-* Basic systme update and package management and installation
+* Basic system update and package management and installation
 * When to use apt vs apt-get? 
 * What is a package? 
 * How do I install software? 
