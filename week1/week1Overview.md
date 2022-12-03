@@ -1,5 +1,7 @@
 # Week 1
 
+*Week one is mainly used to introduce the Boost and orient everyone to what will be covered, how important notetaking and learning are, and what it means to be a technologist. Aaron Swartz's story was introduced and highlighted as an example of one's passion and commitment to the power of the computer and the importance of sharing one's knowledge as openly and fairly as possible with those around you.* 
+
 ## Zettelkasten 
 * Used for creating a personal knowledge system
 * Each note zettel intended to be succint yet informative
