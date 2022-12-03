@@ -13,7 +13,8 @@ BREAK 20221130200344
 
 BREAK (20221130211411)
 
-* How do i change user or group of file or directory? (20221130211617)
+* How do i change user or group of file or directory? (20221130211617
+* How do I move or rename a file directory? )
 
 
 ## Commands
@@ -38,8 +39,11 @@ BREAK (20221130211411)
 * `ip -c  a` - lookup IP addresses
 * `touch` - create new text file or update time stamp
 * `grep` - search for a key word in a file (global regular expression print)
-
-
+* `scp foo target:foo` - copy foo from host to remote target home directory 
+* `cp -r foo (directory) anotherFoo (next directory` - copy contents of one directory to another without keeping time stamps
+* `rm -rf fooirectory` - remove a directory with file contents)
+* `cp -ar fooDirectory barrDirectory` - copy all contents of one directory to another while keeping time stamps
+* `set -o noclobber` - stop from blowing away files (writing one file over another)
 
 ### Quick notes
 
